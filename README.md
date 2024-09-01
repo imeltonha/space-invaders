@@ -12,3 +12,4 @@
   <li>When your bullet hit the alien ship or their bullets, your bullet and the correspondance disappear, and your score adds up. Try to hit all the alien ships.</li>
   <li>If you are hit by the alien's bullet, you lose a life. You only have 3 lives.</li>
 </ol>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/bf9eac7c-0f7a-451d-846f-b55b937d7aab">
