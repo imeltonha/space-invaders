@@ -1,6 +1,6 @@
 <h1>Space Invaders</h1>
 
-<h3>A classsic and funny space invaders game. Beat the alien ships, move your ship to avoid being hitten by their bullets.</h3>
+<h3>A classsic and funny space invaders game. Beat the alien ships, move your ship to avoid being hit by their bullets.</h3>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/1a176b22-9da8-45ac-b6d9-ece9c2de2ba4">
 
 <hr />
